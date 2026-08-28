@@ -1,0 +1,6 @@
+{
+  "name": "Our Little Universe",
+  "description": "An intimate, romantic interactive archive and digital memory universe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
